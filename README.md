@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saikiran</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h1 align="center">Hello 👋, I'm Saikiran</h1>
+<h3 align="center">am a DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsunny-m&label=Profile%20views&color=0e75b6&style=flat" alt="mrsunny-m" /> </p>
 
