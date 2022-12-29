@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/m-saikiran/)
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/MrSunny-M/)
 <a href="https://linkedin.com/in/m-saikiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-saikiran" height="30" width="40" /></a>
 <a href="https://medium.com/@saikiran_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saikiran_m" height="30" width="40" /></a>
 <a href="https://dev.to/saikiran_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saikiran_m" height="30" width="40" /></a>
@@ -44,7 +46,6 @@
 </br></br>
 
 [![Sunny's github stats](https://github-readme-stats.vercel.app/api?username=MrSunny-M&show_icons=true&theme=radical)](https://github.com/MrSunny-M)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSunny-M&layout=compact&langs_count=8&theme=Gradient)](https://github.com/MrSunny-M)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrsunny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrsunny" /></a></p><br><br>
