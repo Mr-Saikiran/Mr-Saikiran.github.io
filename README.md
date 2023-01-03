@@ -41,7 +41,7 @@
 
 [![Sunny's github stats](https://github-readme-stats.vercel.app/api?username=MrSunny-M&show_icons=true&theme=radical)](https://github.com/MrSunny-M)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsunny-m&" alt="mrsunny-m" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsunny-m&" alt="" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsunny-m&show_icons=true&locale=en&layout=compact" alt="mrsunny-m" /></p>
 
