@@ -57,13 +57,13 @@
 ![Streak](https://streak-stats.demolab.com?user=Mr-Saikiran&theme=burnt-neon&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&theme=codestackr&card_width=700)
 
 <a href="https://github.com/Mr-Saikiran/Reusable-GHA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=Reusable-GHA&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=Reusable-GHA&theme=algolia" />
 </a>
 <a href="https://github.com/Mr-Saikiran/terraspace">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=terraspace&theme=algolia" />
 </a>
 <a href="https://github.com/Mr-Saikiran/awspy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=awspy&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=awspy&theme=algolia" />
 </a>
 <a href="https://github.com/Mr-Saikiran/API-Gateway-Automation">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=API-Gateway-Automation&theme=algolia" />
