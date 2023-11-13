@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Saikiran</h1>
-<h3 align="center">Cloud & DevSecOps Consultant👨🏼‍💻</h3>
+<h3 align="center">Cloud & DevSecOps Specialist👨🏼‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Saikiran&label=Profile%20views&color=red&style=plastic&base=10641" alt="Mr-Saikiran" /> </p>
 
@@ -69,7 +69,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=API-Gateway-Automation&theme=algolia" />
 </a>
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Saikiran&theme=monokai&custom_title=This%20Month%27s%20%Activity%20graph&height=400&area=false)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Saikiran&theme=monokai&custom_title=This Month%27s Activity graph&height=400&area=true)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMr-Saikiran%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=firefoxbrowser.svg&icon_color=%230CDE6E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
