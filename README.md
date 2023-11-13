@@ -57,19 +57,19 @@
 ![Streak](https://streak-stats.demolab.com?user=Mr-Saikiran&theme=burnt-neon&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&theme=codestackr&card_width=700)
 
 <a href="https://github.com/Mr-Saikiran/Reusable-GHA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=Reusable-GHA&theme=algolia" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=Reusable-GHA&theme=algolia" />
 </a>
 <a href="https://github.com/Mr-Saikiran/terraspace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=terraspace&theme=algolia" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=terraspace&theme=algolia" />
 </a>
 <a href="https://github.com/Mr-Saikiran/awspy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=awspy&theme=algolia" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=awspy&theme=algolia" />
 </a>
 <a href="https://github.com/Mr-Saikiran/API-Gateway-Automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=API-Gateway-Automation&theme=algolia" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Saikiran&repo=API-Gateway-Automation&theme=algolia" />
 </a>
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Saikiran&theme=monokai&custom_title=This Month%27s Activity graph&height=400&area=true)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Saikiran&theme=monokai&custom_title=This-Month%27s-Activity-graph&height=450&area=true)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMr-Saikiran%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=firefoxbrowser.svg&icon_color=%230CDE6E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
