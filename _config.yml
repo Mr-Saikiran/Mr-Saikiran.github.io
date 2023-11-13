@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Github Portfolio
 description: A short summary of Github Contributions
-show_downloads: true
+show_downloads: false
