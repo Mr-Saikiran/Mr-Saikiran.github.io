@@ -1,7 +1,7 @@
 name: Profile-Summary-Cards
 
 on:
-  schedule: # execute every 24 hours
+  schedule: # execute every Saturday at 5PM
     - cron: "00 17 * * 6"
   workflow_dispatch:
 
