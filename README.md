@@ -1,9 +1,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Saikiran&label=Profile%20views&color=red&style=plastic&base=10641" alt="Mr-Saikiran" /> </p>
 
-<span style="color: #F78756; text-align: center; font-family: fira code; font-size: 2em">Hi, I'm Saikiran</span>
+<!-- <span style="color: #F78756; text-align: center; font-family: fira code; font-size: 2em">Hi, I'm Saikiran</span> -->
+<p align="center">
+  <a href="https://Mr-Saikiran.github.io">
+    <img src="https://i.imgur.com/U9Z4GYw.png" alt="Saikiran M" /></a>
+</p>
 
-![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78756&center=true&vCenter=true&random=false&width=435&lines=Cloud+%26+DevSecOps+Specialist;10%2B+years+of+Technology+Industry+Experience;Ask+me+about+DevOps%2C+AWS+and+Python)
+![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78756&center=true&vCenter=true&random=false&width=435&lines=Cloud+%26+DevSecOps+Specialist;10%2B+years+of+Technology+Experience;Ask+me+about+DevOps%2C+AWS+and+Python)
 
 
 <!-- Social icons section -->
@@ -73,7 +77,7 @@
 ***
 <br />
 
-![Top Langs](https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&hide_progress=true&theme=tokyonight&hide=html,ruby&layout=compact)
+![Top Langs](https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&theme=tokyonight&hide=html,ruby&layout=compact)
 
 <br />
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Saikiran&title=Stars,Repositories,Reviews,Issues,Experience,PullRequest,Commits&theme=juicyfresh" alt="Mr-Saikiran" /> </p>
