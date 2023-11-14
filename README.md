@@ -3,10 +3,7 @@
 
 <span style="color: #F78756; text-align: center; font-family: fira code; font-size: 2em">Hi, I'm Saikiran</span>
 
-![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78756&center=true&vCenter=true&random=false&width=435&lines=Cloud+%26+DevSecOps+Specialist;Decade+of+Technology+Industry+Experience;Ask+me+about+DevOps%2C+AWS+and+Python)
-
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Saikiran&title=Stars,Repositories,Reviews,Issues,Experience,PullRequest,Commits&theme=juicyfresh" alt="Mr-Saikiran" /> </p>
+![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78756&center=true&vCenter=true&random=false&width=435&lines=Cloud+%26+DevSecOps+Specialist;10%2B+years+of+Technology+Industry+Experience;Ask+me+about+DevOps%2C+AWS+and+Python)
 
 
 <!-- Social icons section -->
@@ -58,7 +55,6 @@
 </div> </p>
 
 <br />
-<br />
 
 ## Credly badges 🏅
 <!--START_SECTION:badges-->
@@ -78,22 +74,19 @@
 ***
 <br />
 
-![Top Langs](https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&hide_progress=true&theme=tokyonight&hide=html,ruby&layout=compact)
 
 <br />
-<br />
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Saikiran&title=Stars,Repositories,Reviews,Issues,Experience,PullRequest,Commits&theme=juicyfresh" alt="Mr-Saikiran" /> </p>
 
 ![Profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Saikiran&theme=codeSTACKr)
 
-<br />
 
 ![Github Stats](https://github-readme-stats-mr-saikiran.vercel.app/api?username=Mr-Saikiran&rank_icon=github&theme=codeSTACKr&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&include_all_commits=false&custom_title=Github-Stats&card_width=700)
 
-<br />
 
 ![Streak](https://streak-stats.demolab.com?user=Mr-Saikiran&theme=burnt-neon&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&theme=codestackr&card_width=700)
 
-<br />
 
 <a href="https://github.com/Mr-Saikiran/Reusable-GHA">
   <img align="center" src="https://github-readme-stats-mr-saikiran.vercel.app/api/pin/?username=Mr-Saikiran&repo=Reusable-GHA&theme=algolia" />
@@ -109,13 +102,11 @@
 </a> -->
 
 <br />
-<br />
 
 ![Activity graph](https://activity-graph-mr-saikiran.vercel.app/graph?username=Mr-Saikiran&theme=monokai&custom_title=This-Month%27s-Activity-graph&height=450&area=true)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMr-Saikiran%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=firefoxbrowser.svg&icon_color=%230CDE6E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-<br />
 <br />
 <br />
 
