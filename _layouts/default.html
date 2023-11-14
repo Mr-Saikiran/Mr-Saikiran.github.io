@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <link rel="shortcut icon" type="image/png" href="_layouts/GithubStar-favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="_layouts/GithubStar.ico">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -17,12 +17,26 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include head-custom.html %}
+    <style>
+      body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+      }
+
+      .wrapper {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    </style>
   </head>
   <body>
       <div id="header">
         <nav>
           <ul>
-            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+            <!-- <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li> -->
             {% if site.show_downloads %}
               <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
               <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
