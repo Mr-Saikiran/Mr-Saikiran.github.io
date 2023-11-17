@@ -33,7 +33,7 @@
 
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=ansible,aws,azure,bash,docker,dynamodb,gcp,githubactions,gitlab,go,grafana,java,jenkins,kafka,kubernetes,linux,md,mongodb,mysql,nginx,postgres,postman,powershell,prometheus,py,redis,vscode,&perline=9&theme=light">
+  <img src="https://skillicons.dev/icons?i=ansible,aws,azure,bash,docker,dynamodb,gcp,githubactions,gitlab,go,grafana,java,jenkins,kafka,kubernetes,linux,md,mongodb,mysql,nginx,postgres,postman,powershell,prometheus,py,redis,vscode,&perline=9&theme=light"/>
 
 <!-- <p align="left">
 <div id="hoverText">
@@ -121,8 +121,8 @@
 
 <br />
 
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Mr-Saikiran/Mr-Saikiran.github.io/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Mr-Saikiran/Mr-Saikiran.github.io/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/Mr-Saikiran/Mr-Saikiran.github.io/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Mr-Saikiran/Mr-Saikiran.github.io/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br />
 <br />
