@@ -27,8 +27,7 @@ jobs:
           # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch 
           AUTO_PUSH: true
 
-      - name: push summary-cards to output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+      - uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
           build_dir: dist
