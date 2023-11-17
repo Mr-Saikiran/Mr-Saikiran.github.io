@@ -30,7 +30,12 @@
 
 
 <h2 align="left">Skilled in 👨🏼‍💻</h2>
-<p align="left">
+
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=ansible,aws,azure,bash,docker,dynamodb,gcp,githubactions,gitlab,go,grafana,java,jenkins,kafka,kubernetes,linux,md,mongodb,mysql,nginx,postgres,postman,powershell,prometheus,py,redis,vscode,&perline=9&theme=light">
+
+<!-- <p align="left">
 <div id="hoverText">
 <span title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="30" height="30"/></span>
 <span title="Azure"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="30" height="30" /> </span>
@@ -59,7 +64,7 @@
 <span title="Apache"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="30" height="30" /></span>
 <span title="Nginx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="30" height="30" /></span>
 <span title="GO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="GO" width="30" height="30" /></span>
-</div> </p>
+</div> </p> -->
 
 <br />
 
@@ -80,7 +85,7 @@
 ***
 <br />
 
-![Top Langs](https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&theme=tokyonight&hide=html,ruby&layout=compact)
+
 
 <br />
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Saikiran&title=Stars,Repositories,Reviews,Issues,Experience,PullRequest,Commits&theme=juicyfresh" alt="Mr-Saikiran" /> </p>
@@ -88,11 +93,12 @@
 ![Profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Saikiran&theme=codeSTACKr)
 
 
-![Github Stats](https://github-readme-stats-mr-saikiran.vercel.app/api?username=Mr-Saikiran&rank_icon=github&theme=codeSTACKr&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&include_all_commits=false&custom_title=Github-Stats&card_width=700)
+![Github Stats](https://github-readme-stats-mr-saikiran.vercel.app/api?username=Mr-Saikiran&rank_icon=github&theme=codeSTACKr&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&include_all_commits=false&custom_title=Github-Stats&card_width=800)
 
-
-![Streak](https://streak-stats.demolab.com?user=Mr-Saikiran&theme=burnt-neon&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&theme=codestackr&card_width=700)
-
+<div align="left">
+<img src="https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&theme=tokyonight&hide=html,ruby&layout=compact"/>
+<img src="https://streak-stats.demolab.com?user=Mr-Saikiran&theme=burnt-neon&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&theme=codestackr&card_width=500"/>
+</div>
 
 <a href="https://github.com/Mr-Saikiran/Reusable-GHA">
   <img align="center" src="https://github-readme-stats-mr-saikiran.vercel.app/api/pin/?username=Mr-Saikiran&repo=Reusable-GHA&theme=algolia" />
@@ -112,6 +118,11 @@
 ![Activity graph](https://activity-graph-mr-saikiran.vercel.app/graph?username=Mr-Saikiran&theme=monokai&custom_title=This-Month%27s-Activity-graph&height=450&area=true)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMr-Saikiran%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=firefoxbrowser.svg&icon_color=%230CDE6E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+
+<br />
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Mr-Saikiran/Mr-Saikiran/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Mr-Saikiran/Mr-Saikiran/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br />
 <br />
