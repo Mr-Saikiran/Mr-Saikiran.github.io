@@ -64,7 +64,8 @@
 <span title="Apache"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="30" height="30" /></span>
 <span title="Nginx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="30" height="30" /></span>
 <span title="GO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="GO" width="30" height="30" /></span>
-</div> </p> -->
+</div>  -->
+</p>
 
 <br />
 
@@ -86,8 +87,6 @@
 <br />
 
 
-
-<br />
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Mr-Saikiran&title=Stars,Repositories,Reviews,Issues,Experience,PullRequest,Commits&theme=juicyfresh" alt="Mr-Saikiran" /> </p>
 
 ![Profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Saikiran&theme=codeSTACKr)
@@ -95,10 +94,10 @@
 
 ![Github Stats](https://github-readme-stats-mr-saikiran.vercel.app/api?username=Mr-Saikiran&rank_icon=github&theme=codeSTACKr&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&include_all_commits=false&custom_title=Github-Stats&card_width=800)
 
-<div align="left">
-<img src="https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&theme=tokyonight&hide=html,ruby&layout=compact"/>
-<img src="https://streak-stats.demolab.com?user=Mr-Saikiran&theme=burnt-neon&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&theme=codestackr&card_width=500"/>
-</div>
+<p align="left">
+<img src="https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&theme=tokyonight&hide=html,ruby&layout=compact" />
+<img src="https://streak-stats.demolab.com?user=Mr-Saikiran&theme=burnt-neon&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&theme=codestackr&card_width=500" />
+</p>
 
 <a href="https://github.com/Mr-Saikiran/Reusable-GHA">
   <img align="center" src="https://github-readme-stats-mr-saikiran.vercel.app/api/pin/?username=Mr-Saikiran&repo=Reusable-GHA&theme=algolia" />
@@ -128,4 +127,4 @@
 <br />
 
 <h3 align="left">Benefitted from any Project❓</h3>
-<p><a href="https://www.buymeacoffee.com/Saikiran.M"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="buymeacoffee" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Saikiran.M"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="buymeacoffee" /></a></p>
