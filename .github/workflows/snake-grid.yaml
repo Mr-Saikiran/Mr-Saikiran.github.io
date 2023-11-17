@@ -2,16 +2,16 @@ name: Contribution Snake
 
 on:
   # run automatically at 0 o'clock
-  schedule:
-    - cron: "0 0 * * * " 
+  # schedule:
+  #   - cron: "0 0 * * * " 
   
   # allows to manually run the job at any time
   workflow_dispatch:
   
   # run on every push on the master branch
-  push:
-    branches:
-    - master
+  # push:
+  #   branches:
+  #   - master
 
 jobs:
   generate:
