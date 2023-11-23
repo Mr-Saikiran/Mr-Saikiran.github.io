@@ -73,15 +73,15 @@
 
 ## Credly badges 🏅
 <!--START_SECTION:badges-->
-[![AWS Partner: Generative AI Essentials (Business)](https://images.credly.com/size/110x110/images/ae1844f8-833d-4241-b026-dd6cc50319d1/image.png)](http://www.credly.com/badges/6c95ae68-ef3d-4b38-9f53-8add346ca1a6 "AWS Partner: Generative AI Essentials (Business)")
-[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/aabd30d5-7bab-4f82-888c-9bf81ed9dbc3 "AWS Partner: Accreditation (Technical)")
-[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](http://www.credly.com/badges/df21c04e-0fd3-4a85-bb50-d8cc237af792 "AWS Partner: Cloud Economics Accreditation")
-[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/065473ab-bbd5-43a5-b3f2-409c170ff5e8 "HashiCorp Certified: Terraform Associate (003)")
-[![LFD102: A Beginner's Guide to Open Source Software Development](https://images.credly.com/size/110x110/images/8d609bdc-7aea-480d-9fc8-78485af20828/LF_logobadge.png)](http://www.credly.com/badges/8b68b824-b56c-4b8a-9107-2a6290c56351 "LFD102: A Beginner's Guide to Open Source Software Development")
-[![Kong Gateway Foundations](https://images.credly.com/size/110x110/images/f3de2561-27e7-4b48-a2c1-223f821318f2/image.png)](http://www.credly.com/badges/edef665b-29ce-4e23-a420-0f62ee61a64d "Kong Gateway Foundations")
-[![Verified International Academic Qualifications](https://images.credly.com/size/110x110/images/4c93fc45-c2dd-42fd-a33b-712c81385acd/eb3f7b3afd337cf0eca6d7eca5a4fac0.png)](http://www.credly.com/badges/eaf9b5c9-a233-4c03-94c0-00f3fb278f88 "Verified International Academic Qualifications")
-[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/115dbb1c-9fb1-47bb-a470-6767911194bf "Microsoft Certified: Azure Administrator Associate")
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/12d4e429-480a-4375-aef1-858ac1479a13 "CKA: Certified Kubernetes Administrator")
+[![AWS Partner: Generative AI Essentials (Business)](https://images.credly.com/size/90x90/images/ae1844f8-833d-4241-b026-dd6cc50319d1/image.png)](http://www.credly.com/badges/6c95ae68-ef3d-4b38-9f53-8add346ca1a6 "AWS Partner: Generative AI Essentials (Business)")
+[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/90x90/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/aabd30d5-7bab-4f82-888c-9bf81ed9dbc3 "AWS Partner: Accreditation (Technical)")
+[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/90x90/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](http://www.credly.com/badges/df21c04e-0fd3-4a85-bb50-d8cc237af792 "AWS Partner: Cloud Economics Accreditation")
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/90x90/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/065473ab-bbd5-43a5-b3f2-409c170ff5e8 "HashiCorp Certified: Terraform Associate (003)")
+[![LFD102: A Beginner's Guide to Open Source Software Development](https://images.credly.com/size/90x90/images/8d609bdc-7aea-480d-9fc8-78485af20828/LF_logobadge.png)](http://www.credly.com/badges/8b68b824-b56c-4b8a-9107-2a6290c56351 "LFD102: A Beginner's Guide to Open Source Software Development")
+[![Kong Gateway Foundations](https://images.credly.com/size/90x90/images/f3de2561-27e7-4b48-a2c1-223f821318f2/image.png)](http://www.credly.com/badges/edef665b-29ce-4e23-a420-0f62ee61a64d "Kong Gateway Foundations")
+[![Verified International Academic Qualifications](https://images.credly.com/size/90x90/images/4c93fc45-c2dd-42fd-a33b-712c81385acd/eb3f7b3afd337cf0eca6d7eca5a4fac0.png)](http://www.credly.com/badges/eaf9b5c9-a233-4c03-94c0-00f3fb278f88 "Verified International Academic Qualifications")
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/90x90/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/115dbb1c-9fb1-47bb-a470-6767911194bf "Microsoft Certified: Azure Administrator Associate")
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/90x90/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/12d4e429-480a-4375-aef1-858ac1479a13 "CKA: Certified Kubernetes Administrator")
 <!--END_SECTION:badges-->
 
 <br />
