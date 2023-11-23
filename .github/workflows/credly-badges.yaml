@@ -17,3 +17,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: m-saikiran # optional, but default will use the same from github
+          BADGE_SIZE: 90
