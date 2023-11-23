@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78756&center=true&random=false&width=435&lines=Cloud+%26+DevSecOps+Specialist;10%2B+years+Technology+Experience;Ask+me+about+DevOps%2C+AWS+%26+Python&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78756&center=true&random=false&width=435&lines=Cloud+%26+DevSecOps+Specialist;10%2B+years+of+Technical+Experience;Ask+me+about+DevOps%2C+AWS+%26+Python&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -99,7 +99,7 @@
 ![Github Stats](https://github-readme-stats-mr-saikiran.vercel.app/api?username=Mr-Saikiran&rank_icon=github&theme=codeSTACKr&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&include_all_commits=false&custom_title=Github-Stats&card_width=800)
 
 <p align="left">
-<img src="https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&theme=tokyonight&hide=html,ruby&layout=compact" />
+<img src="https://github-readme-stats-mr-saikiran.vercel.app/api/top-langs/?username=Mr-Saikiran&size_weight=0&count_weight=1&theme=tokyonight&langs_count=10&layout=compact" />
 <img src="https://streak-stats.demolab.com?user=Mr-Saikiran&theme=burnt-neon&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&theme=codestackr&card_width=500" />
 </p>
 
