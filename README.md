@@ -29,11 +29,13 @@
 </p>
 
 
-<h2 align="left">Skilled in 👨🏼‍💻</h2>
+<h2 align="left">Skills 👨🏼‍💻</h2>
 
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=ansible,aws,azure,bash,docker,dynamodb,gcp,githubactions,gitlab,go,grafana,java,jenkins,kafka,kubernetes,linux,md,mongodb,mysql,nginx,postgres,postman,powershell,prometheus,py,redis,vscode,&perline=9&theme=light"/>
+<p align="center">
+  <!-- <a href = "#"> -->
+    <img src="https://simpleskill.icons.workers.dev/svg?i=ansible,terraform,saltproject,amazonaws,microsoftazure,azuredevops,googlecloud,docker,kubernetes,helm,istio,consul,githubactions,gitlab,jenkins,backstage,bitbucket,spinnaker,jfrog,sonarqube,vault,owasp,dependencycheck,apachekafka,apachedruid,mongodb,mysql,redis,microsoftsqlserver,postgresql,elasticstack,graylog,grafana,prometheus,datadog,sumologic,jaeger,opsgenie,python,pytest,go,gnubash,apachegroovy,powershell,jira,confluence,trello,readthedocs&perline=12"/>
+  <!-- </a> -->
 
 <!-- <p align="left">
 <div id="hoverText">
