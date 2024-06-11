@@ -73,9 +73,9 @@
 
 ## Credly badges 🏅
 <!--START_SECTION:badges-->
-[![AWS Partner: Generative AI Essentials (Business)](https://images.credly.com/size/90x90/images/ae1844f8-833d-4241-b026-dd6cc50319d1/image.png)](http://www.credly.com/badges/6c95ae68-ef3d-4b38-9f53-8add346ca1a6 "AWS Partner: Generative AI Essentials (Business)")
-[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/90x90/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/aabd30d5-7bab-4f82-888c-9bf81ed9dbc3 "AWS Partner: Accreditation (Technical)")
-[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/90x90/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](http://www.credly.com/badges/df21c04e-0fd3-4a85-bb50-d8cc237af792 "AWS Partner: Cloud Economics Accreditation")
+[![AWS Partner: Generative AI Essentials](https://images.credly.com/size/90x90/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png)](http://www.credly.com/badges/6c95ae68-ef3d-4b38-9f53-8add346ca1a6 "AWS Partner: Generative AI Essentials")
+[![AWS Partner: Technical Accredited](https://images.credly.com/size/90x90/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png)](http://www.credly.com/badges/aabd30d5-7bab-4f82-888c-9bf81ed9dbc3 "AWS Partner: Technical Accredited")
+[![AWS Partner: Cloud Economics Essentials](https://images.credly.com/size/90x90/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png)](http://www.credly.com/badges/df21c04e-0fd3-4a85-bb50-d8cc237af792 "AWS Partner: Cloud Economics Essentials")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/90x90/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/065473ab-bbd5-43a5-b3f2-409c170ff5e8 "HashiCorp Certified: Terraform Associate (003)")
 [![LFD102: A Beginner's Guide to Open Source Software Development](https://images.credly.com/size/90x90/images/8d609bdc-7aea-480d-9fc8-78485af20828/LF_logobadge.png)](http://www.credly.com/badges/8b68b824-b56c-4b8a-9107-2a6290c56351 "LFD102: A Beginner's Guide to Open Source Software Development")
 [![Kong Gateway Foundations](https://images.credly.com/size/90x90/images/f3de2561-27e7-4b48-a2c1-223f821318f2/image.png)](http://www.credly.com/badges/edef665b-29ce-4e23-a420-0f62ee61a64d "Kong Gateway Foundations")
