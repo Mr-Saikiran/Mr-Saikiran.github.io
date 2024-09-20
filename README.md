@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78756&center=true&random=false&width=435&lines=Cloud+%26+DevSecOps+Specialist;10%2B+years+of+Technical+Experience;Ask+me+about+DevOps%2C+AWS+%26+Python&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=11+years+of+Technical+Experience+%F0%9F%A7%A9;Specialized+in+DevSecOps%E2%99%BE%EF%B8%8F+%26+Cloud%E2%98%81%EF%B8%8F;Up-to-date+with+industry+trends+%E2%9C%85;Curious+to+know+more+%E2%9D%94Let's+Chat+%F0%9F%92%AC"/></a>
 </p>
 
 <!-- Social icons section -->
