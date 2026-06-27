@@ -75,6 +75,7 @@
 ## Credly badges 🏅
 <!--START_SECTION:badges-->
 [![Agentic AI Production](https://images.credly.com/size/80x80/images/7b36809e-de57-4fad-aead-ed5dc35b77ba/f21f0246-ff2c-456f-884b-08120e9a7dd8.png)](https://www.credly.com/badges/5f18cf63-2a80-47e6-9619-67d4f7d13012)
+[![Deploy Gemini Enterprise with Workspace Data Sources and Model Armor](https://images.credly.com/size/80x80/images/d82b7124-5d8a-4bb9-a3c0-7220e172f948/blob)](https://www.credly.com/badges/4d1eb840-d4a5-49e8-a7bb-a87a83bb658b)
 [![AWS Partner: Generative AI Essentials - Training Badge](https://images.credly.com/size/80x80/images/4b547104-5ce9-43d5-8708-a7abb4b0c7ec/blob)](https://www.credly.com/badges/6c95ae68-ef3d-4b38-9f53-8add346ca1a6)
 [![AWS Partner: Cloud Economics Essentials - Training Badge](https://images.credly.com/size/80x80/images/1ba189ae-4afb-4c3b-ae89-f3da3c054f05/blob)](https://www.credly.com/badges/df21c04e-0fd3-4a85-bb50-d8cc237af792)
 [![AWS Partner: Technical Accredited - Training Badge](https://images.credly.com/size/80x80/images/8f006312-3154-45bf-a845-4a043641e83c/blob)](https://www.credly.com/badges/aabd30d5-7bab-4f82-888c-9bf81ed9dbc3)
