@@ -1,0 +1,46 @@
+# Core profile details shown in the hero and About section.
+# Replace `about` with the text of your LinkedIn "About" section.
+name: Saikiran M
+headline: DevSecOps & Cloud Engineer
+location: ""
+avatar: https://github.com/Mr-Saikiran.png
+typing:
+  - 11+ years of technical experience
+  - Specialized in DevSecOps & Cloud
+  - Kubernetes · Terraform · CI/CD
+  - Up-to-date with industry trends
+about: >-
+  DevSecOps and Cloud engineer with 11+ years of technical experience
+  building secure, automated delivery platforms across AWS, Azure and
+  Google Cloud. I design infrastructure as code, Kubernetes platforms and
+  CI/CD pipelines with security built in from the first commit, and I
+  keep learning — from Kubernetes administration to agentic AI in production.
+highlights:
+  - value: "11+"
+    label: Years of experience
+  - value: "3"
+    label: Cloud platforms
+  - value: "12+"
+    label: Credly badges
+links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/m-saikiran/
+    icon: linkedin
+  - name: GitHub
+    url: https://github.com/Mr-Saikiran
+    icon: github
+  - name: Credly
+    url: https://www.credly.com/users/m-saikiran/badges
+    icon: award
+  - name: Medium
+    url: https://medium.com/@saikiran_m
+    icon: medium
+  - name: Dev.to
+    url: https://dev.to/saikiran_m
+    icon: devto
+  - name: Email
+    url: mailto:Saikiran_M@outlook.com
+    icon: mail
+  - name: Ko-fi
+    url: https://ko-fi.com/saikiran
+    icon: coffee

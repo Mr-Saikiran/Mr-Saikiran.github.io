@@ -1,0 +1,19 @@
+# Skill groups; `icons` are simpleskill.icons slugs.
+- group: Cloud
+  icons: amazonaws,microsoftazure,googlecloud
+- group: Infrastructure as Code & Config
+  icons: terraform,ansible,saltproject,vault,consul
+- group: Containers & Orchestration
+  icons: docker,kubernetes,helm,istio
+- group: CI/CD & Delivery
+  icons: githubactions,gitlab,jenkins,azuredevops,spinnaker,bitbucket,jfrog,backstage
+- group: Security
+  icons: sonarqube,owasp,dependencycheck
+- group: Data & Messaging
+  icons: apachekafka,apachedruid,mongodb,mysql,redis,microsoftsqlserver,postgresql
+- group: Observability
+  icons: elasticstack,graylog,grafana,prometheus,datadog,sumologic,jaeger,opsgenie
+- group: Languages & Scripting
+  icons: python,pytest,go,gnubash,apachegroovy,powershell
+- group: Collaboration
+  icons: jira,confluence,trello,readthedocs

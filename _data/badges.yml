@@ -1,0 +1,74 @@
+# Credly badges (mirrors the badge list in README.md, which the
+# "Update Credly Badges" workflow refreshes). `kind` is certification or learning.
+- name: Microsoft Applied Skills — Accelerate AI-assisted development by using GitHub Copilot
+  issuer: Microsoft
+  kind: learning
+  image: https://images.credly.com/size/160x160/images/2c996984-26ea-4271-97d7-892a9ddc48c9/converted20260407-33-5cf4p2.png
+  url: https://www.credly.com/users/m-saikiran/badges
+  description: Demonstrates using GitHub Copilot to speed up coding, testing and documentation with AI assistance.
+- name: Agentic AI Production
+  issuer: ""
+  kind: learning
+  image: https://images.credly.com/size/160x160/images/7b36809e-de57-4fad-aead-ed5dc35b77ba/f21f0246-ff2c-456f-884b-08120e9a7dd8.png
+  url: https://www.credly.com/badges/5f18cf63-2a80-47e6-9619-67d4f7d13012
+  description: Taking agentic AI systems from prototype to reliable production workloads.
+- name: Deploy Gemini Enterprise with Workspace Data Sources and Model Armor
+  issuer: Google Cloud
+  kind: learning
+  image: https://images.credly.com/size/160x160/images/d82b7124-5d8a-4bb9-a3c0-7220e172f948/blob
+  url: https://www.credly.com/badges/4d1eb840-d4a5-49e8-a7bb-a87a83bb658b
+  description: Deploying Gemini Enterprise connected to Workspace data, protected with Model Armor guardrails.
+- name: "AWS Partner: Generative AI Essentials"
+  issuer: Amazon Web Services
+  kind: learning
+  image: https://images.credly.com/size/160x160/images/4b547104-5ce9-43d5-8708-a7abb4b0c7ec/blob
+  url: https://www.credly.com/badges/6c95ae68-ef3d-4b38-9f53-8add346ca1a6
+  description: Foundations of generative AI and how to apply it to customer solutions on AWS.
+- name: "AWS Partner: Cloud Economics Essentials"
+  issuer: Amazon Web Services
+  kind: learning
+  image: https://images.credly.com/size/160x160/images/1ba189ae-4afb-4c3b-ae89-f3da3c054f05/blob
+  url: https://www.credly.com/badges/df21c04e-0fd3-4a85-bb50-d8cc237af792
+  description: Building the business value case for cloud adoption and cost optimization on AWS.
+- name: "AWS Partner: Technical Accredited"
+  issuer: Amazon Web Services
+  kind: learning
+  image: https://images.credly.com/size/160x160/images/8f006312-3154-45bf-a845-4a043641e83c/blob
+  url: https://www.credly.com/badges/aabd30d5-7bab-4f82-888c-9bf81ed9dbc3
+  description: Core AWS architecture, services and best practices for technical partners.
+- name: "LFD102: A Beginner's Guide to Open Source Software Development"
+  issuer: The Linux Foundation
+  kind: learning
+  image: https://images.credly.com/size/160x160/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob
+  url: https://www.credly.com/badges/8b68b824-b56c-4b8a-9107-2a6290c56351
+  description: Open source development practices, licensing, collaboration and Git workflows.
+- name: Kong Gateway Foundations
+  issuer: Kong
+  kind: learning
+  image: https://images.credly.com/size/160x160/images/56f72d46-7265-43f9-be24-9ef7b7f9e087/blob
+  url: https://www.credly.com/badges/edef665b-29ce-4e23-a420-0f62ee61a64d
+  description: Deploying and managing APIs with Kong Gateway — services, routes and plugins.
+- name: Verified International Academic Qualifications
+  issuer: World Education Services
+  kind: learning
+  image: https://images.credly.com/size/160x160/images/c4569922-64bd-4bb9-9eda-a37736389d26/image.png
+  url: https://www.credly.com/badges/eaf9b5c9-a233-4c03-94c0-00f3fb278f88
+  description: Academic credentials independently verified and evaluated by WES.
+- name: "CKA: Certified Kubernetes Administrator"
+  issuer: The Linux Foundation / CNCF
+  kind: certification
+  image: https://images.credly.com/size/160x160/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png
+  url: https://www.credly.com/badges/12d4e429-480a-4375-aef1-858ac1479a13
+  description: Hands-on, performance-based certification for installing, configuring and operating production Kubernetes clusters.
+- name: "HashiCorp Certified: Terraform Associate (003)"
+  issuer: HashiCorp
+  kind: certification
+  image: https://images.credly.com/size/160x160/images/0dc62494-dc94-469a-83af-e35309f27356/blob
+  url: https://www.credly.com/badges/065473ab-bbd5-43a5-b3f2-409c170ff5e8
+  description: Validates infrastructure-as-code skills with Terraform — state, modules, workflows and providers.
+- name: "Microsoft Certified: Azure Administrator Associate"
+  issuer: Microsoft
+  kind: certification
+  image: https://images.credly.com/size/160x160/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png
+  url: https://www.credly.com/badges/115dbb1c-9fb1-47bb-a470-6767911194bf
+  description: Implementing, managing and monitoring Azure identity, governance, storage, compute and networking.
