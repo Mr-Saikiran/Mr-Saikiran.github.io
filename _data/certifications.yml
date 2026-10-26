@@ -1,0 +1,8 @@
+# LinkedIn "Licenses & certifications" that are NOT already on Credly.
+# Example entry:
+# - name: Certificate name
+#   issuer: Issuing organization
+#   date: Mon YYYY
+#   url: https://credential-link
+#   description: One line about what it covers.
+[]
