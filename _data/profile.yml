@@ -1,22 +1,27 @@
 # Core profile details shown in the hero and About section.
-# Replace `about` with the text of your LinkedIn "About" section.
 name: Saikiran M
-headline: DevSecOps & Cloud Engineer
+headline: Cloud · Data · AI & MLOps · DevSecOps
 location: ""
 avatar: https://github.com/Mr-Saikiran.png
 typing:
-  - 11+ years of technical experience
-  - Specialized in DevSecOps & Cloud
-  - Kubernetes · Terraform · CI/CD
-  - Up-to-date with industry trends
+  - More than a decade architecting solutions
+  - Cloud · Data · AI & MLOps · DevSecOps
+  - Large-scale, distributed, fault-tolerant systems
+  - Curious to know more? Let's chat
 about: >-
-  DevSecOps and Cloud engineer with 11+ years of technical experience
-  building secure, automated delivery platforms across AWS, Azure and
-  Google Cloud. I design infrastructure as code, Kubernetes platforms and
-  CI/CD pipelines with security built in from the first commit, and I
-  keep learning — from Kubernetes administration to agentic AI in production.
+  More than a decade experience in architecting solutions in Cloud, Data,
+  AI & MLOps and DevSecOps, aiming to deliver high business value for various
+  business cases running on large-scale, distributed, and fault-tolerant systems.
+focus:
+  - Model LifeCycle Management | Model Training and Tuning, Model Serving & Inference
+  - Cloud Orchestration for microservices in Azure and AWS
+  - CI/CD/CT
+  - Data Analytics, Exploratory data analysis, ETL Pipelines with Lakehouse & Medallion Architecture on Data Lakes
+practices: [AIOps, MLOps, LLMOps, GitOps, ETL/ELT, DevSecOps, Cloud, DataDevOps, FinOps]
+top_skills: [Data Pipelines, AI and Machine Learning, Cloud Security, Agentic Workflows, DevOps Tools]
+services: [Database Development, Cloud Management]
 highlights:
-  - value: "11+"
+  - value: "10+"
     label: Years of experience
   - value: "3"
     label: Cloud platforms

@@ -70,9 +70,33 @@ layout: null
 
     <section id="about" class="section reveal">
       <h2>About</h2>
-      <div class="about">
-        <p>{{ p.about }}</p>
-        {% if p.location != "" %}<p class="muted">📍 {{ p.location }}</p>{% endif %}
+      <div class="about-grid">
+        <div class="about">
+          <p class="lead">{{ p.about }}</p>
+          {% if p.focus %}
+          <ul class="focus">
+            {% for f in p.focus %}<li>{{ f }}</li>{% endfor %}
+          </ul>
+          {% endif %}
+          {% if p.practices %}
+          <div class="chips">{% for t in p.practices %}<span class="chip">{{ t }}</span>{% endfor %}</div>
+          {% endif %}
+          {% if p.location != "" %}<p class="muted">📍 {{ p.location }}</p>{% endif %}
+        </div>
+        <aside class="about-side">
+          {% if p.top_skills %}
+          <div class="card">
+            <h3>💎 Top skills</h3>
+            <div class="chips">{% for t in p.top_skills %}<span class="chip alt">{{ t }}</span>{% endfor %}</div>
+          </div>
+          {% endif %}
+          {% if p.services %}
+          <div class="card">
+            <h3>🛠️ Services</h3>
+            <div class="chips">{% for t in p.services %}<span class="chip alt">{{ t }}</span>{% endfor %}</div>
+          </div>
+          {% endif %}
+        </aside>
       </div>
     </section>
 

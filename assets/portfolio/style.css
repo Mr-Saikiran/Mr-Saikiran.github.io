@@ -154,8 +154,22 @@ a.card:hover, .card.award:hover { transform: translateY(-4px); border-color: col
 .card h3 { margin: 0 0 6px; font-size: 1.02rem; line-height: 1.35; }
 .card p { margin: 0; color: var(--muted); font-size: 0.92rem; }
 
-.about { max-width: 780px; font-size: 1.08rem; }
+.about-grid { display: grid; grid-template-columns: 1.7fr 1fr; gap: 32px; align-items: start; }
+.about { font-size: 1.05rem; }
 .about p { margin: 0 0 12px; color: var(--muted); }
+.about .lead { color: var(--text); font-size: 1.15rem; }
+.focus { list-style: none; padding: 0; margin: 20px 0 24px; display: grid; gap: 10px; }
+.focus li { position: relative; padding-left: 26px; color: var(--muted); }
+.focus li::before { content: "▹"; position: absolute; left: 0; color: var(--accent-2); }
+.about-side { display: grid; gap: 16px; }
+.about-side h3 { margin-bottom: 12px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  font-family: "JetBrains Mono", monospace; font-size: 0.8rem; padding: 5px 12px; border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, var(--border));
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+.chip.alt { font-family: inherit; border-color: var(--border); background: var(--card-hover); }
 
 .skills { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
 .skill h3 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent-2); margin-bottom: 14px; }
@@ -206,6 +220,7 @@ a.card:hover, .card.award:hover { transform: translateY(-4px); border-color: col
 @media (max-width: 860px) {
   .hero { grid-template-columns: 1fr; min-height: auto; text-align: left; }
   .hero-card { justify-self: stretch; }
+  .about-grid { grid-template-columns: 1fr; }
   .nav nav { display: none; }
   .theme-toggle { margin-left: auto; }
   .skills, .badges { grid-template-columns: 1fr; }
